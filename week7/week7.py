@@ -121,3 +121,5 @@ import turtle
 #     barChart(ornek_veri)
 
 
+
+
